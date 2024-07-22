@@ -1,0 +1,8 @@
+transformers==4.40.1
+datasets==2.18.0
+torch==2.2.1
+torchvision==0.17.1
+scikit-learn
+Pillow==10.2.0
+pandas
+tqdm
